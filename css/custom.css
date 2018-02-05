@@ -98,7 +98,7 @@ button {
     padding-bottom: 4rem !important;
 }
 
-#price-table__premium {
+.price-table__premium {
     background: #192440;
     color: #ffffff;
 }
