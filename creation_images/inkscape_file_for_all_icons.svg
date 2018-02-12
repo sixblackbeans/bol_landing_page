@@ -21,7 +21,7 @@
    inkscape:export-ydpi="20.513594"><metadata
      id="metadata3476"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
      id="defs3474" /><sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -36,8 +36,8 @@
      id="namedview3472"
      showgrid="false"
      inkscape:zoom="0.46569611"
-     inkscape:cx="552.77055"
-     inkscape:cy="-123.7889"
+     inkscape:cx="231.74575"
+     inkscape:cy="-128.08355"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -47,8 +47,8 @@
      inkscape:label="Layer 2" /><g
      id="g5264"
      inkscape:export-filename="/home/michaelbaxter/projects/bol_landing_page/img/manage_reviews.png"
-     inkscape:export-xdpi="20"
-     inkscape:export-ydpi="20"><path
+     inkscape:export-xdpi="18.598814"
+     inkscape:export-ydpi="18.598814"><path
        sodipodi:nodetypes="cccc"
        inkscape:connector-curvature="0"
        id="path4753"
@@ -70,8 +70,8 @@
      inkscape:label="Layer 1" /><g
      id="g5238"
      inkscape:export-filename="/home/michaelbaxter/projects/bol_landing_page/img/market_research.png"
-     inkscape:export-xdpi="20"
-     inkscape:export-ydpi="20"><path
+     inkscape:export-xdpi="21.264029"
+     inkscape:export-ydpi="21.264029"><path
        sodipodi:nodetypes="cccc"
        inkscape:connector-curvature="0"
        id="path4753-3"
@@ -146,8 +146,8 @@
      id="g5209"
      transform="translate(-291.57628,733.83104)"
      inkscape:export-filename="/home/michaelbaxter/projects/bol_landing_page/img/measure_profit.png"
-     inkscape:export-xdpi="20"
-     inkscape:export-ydpi="20"><g
+     inkscape:export-xdpi="16.764608"
+     inkscape:export-ydpi="16.764608"><g
        id="g5232"><path
          transform="translate(291.57628,-733.83104)"
          sodipodi:nodetypes="cccc"
